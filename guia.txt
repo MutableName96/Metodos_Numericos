@@ -1,0 +1,2 @@
+py -m pip --version
+py -m pip install spicy
